@@ -19,7 +19,7 @@ html {
   background-image: url(./img/5.jpg);
   background-position: center;
   background-size: cover;
-  height: 680px;
+  height: 780px;
 }
 
 
@@ -112,7 +112,7 @@ html {
   font-family: uno;
   text-align: center;
   color: rgb(255, 255, 255);
-  margin-top: 200px;
+  margin-top: 250px;
   font-size: 25px;
   transform: scale(1);
   transition: 1.5s;
