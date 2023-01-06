@@ -53,6 +53,7 @@ html {
   position: relative;
   font-family: uno;
   height: 40px;
+  
 
   /*no me deja sacar el ultimo porque son clases y no ids,
   si fueran clases tienen hijos y se puede modificar.*/
@@ -273,12 +274,12 @@ html {
 
 .probandohover {
   transform: scale(1);
-  transition: 1.2s;
+  transition: .8s;
   filter: grayscale(100%);
 }
 .probandohover:hover {
   transform: scale(1.1);
-  transition: 1.2s;
+  transition: .8s;
   filter: grayscale(0);
 }
 
@@ -428,3 +429,16 @@ img {
   }
 /*mediaq */
 }/*# sourceMappingURL=estilos.css.map */
+
+/*carrousel*/
+.cardavic{
+  height: 550px;
+  width: 750px;
+}
+.carousel-indicators{
+  margin-top: 130px;
+}
+.carousel-control-prev-icon{
+  color: blue;
+}
+/*carrousel*/
