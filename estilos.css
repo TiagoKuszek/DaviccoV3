@@ -375,6 +375,10 @@ img {
   width: 100%;
   background-color: rgb(255, 0, 0);
 }
+#iconosfooter{
+  color: black;
+  background-color: white;
+}
 .footer .redes {
   text-align: center;
   padding-bottom: 25px;
@@ -392,7 +396,7 @@ img {
   border-radius: 50%;
   margin: 0 9px;
   opacity: 0.75;
-  background-color: gray;
+  background-color: rgb(255, 255, 255);
 }
 
 .footer .redes a i{
