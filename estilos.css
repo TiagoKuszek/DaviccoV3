@@ -118,10 +118,7 @@ html {
   transition: 1.5s;
   margin-bottom: 20px;
 }
-.frase h2:hover {
-  transform: scale(1.2);
-  transition: 1.5s;
-}
+
 .frase button {
   margin-top: 50px;
   font-size: 22px;
